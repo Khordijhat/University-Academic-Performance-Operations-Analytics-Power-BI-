@@ -22,7 +22,7 @@ High-level KPI scorecard tracking core institutional counts alongside critical p
 
 ### 2. Enrollment Overview
 Breaks down student population by campus, faculty, programme, academic year, and gender distribution with interactive year filtering.
-![Enrollment Overview Dasboard Screenshot](<Enrollment overview.png>)
+![Enrollment Overview Dashboard Screenshot](<Enrollment overview.png>)
 
 ### 3. Academic Performance Dashboard
 Evaluates GPA performance, Pass vs. Fail ratios, average scores across assessment types (Assignments, Midterms, Quizzes, Projects, Labs), and programme-level pass/failure rates.
