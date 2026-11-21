@@ -18,7 +18,7 @@ An end-to-end interactive Power BI reporting suite analyzing institutional perfo
 
 ### 1. Executive Overview
 High-level KPI scorecard tracking core institutional counts alongside critical performance indicators (Graduation Rate, Average GPA, and Pass Rate) with semantic alert color coding.
-![Executive Overview](screenshots/01_executive_overview.png)
+!Executive Overview.png
 
 ### 2. Enrollment Overview
 Breaks down student population by campus, faculty, programme, academic year, and gender distribution with interactive year filtering.
