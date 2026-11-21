@@ -26,7 +26,8 @@ Breaks down student population by campus, faculty, programme, academic year, and
 
 ### 3. Academic Performance Dashboard
 Evaluates GPA performance, Pass vs. Fail ratios, average scores across assessment types (Assignments, Midterms, Quizzes, Projects, Labs), and programme-level pass/failure rates.
-![Academic Performance Dashboard Screenshot](<academic performance.png>)
+![Academic Performance Dashboard Screenshot](<Academic Performance.png>)
+
 
 ### 4. Attendance Dashboard
 Tracks average attendance percentages across academic sessions, departments, courses, and lecturers.
